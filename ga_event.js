@@ -4,3 +4,4 @@ function event(event, category, action, label) {
     this.eventAction = action;
     this.eventLabel = label;
 }
+alert("simon")
